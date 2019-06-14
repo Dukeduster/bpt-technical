@@ -52,7 +52,7 @@
   },
   { 
       "id": 2,
-      "name": "Plomería, Jardinería, Electricidad",
+      "name": "Plomería",
   	  "price": 45000,
       "locations": [{
 	                  "id": "asdfiekloe8",
