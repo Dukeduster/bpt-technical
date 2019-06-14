@@ -1,0 +1,100 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "name": "Juan Perez"
+      "category": "SILVER"
+    },
+    {
+      "id": 2,
+      "name": "Santiago Rodriguez"
+      "category": "GOLD"
+    },
+    {
+      "id": 3,
+      "name": "Ivan Ramirez"
+      "category": "SILVER"
+    },
+    {
+      "id": 4,
+      "name": "Oscar Ruiz"
+      "category": "PLATINUM"
+    },
+    {
+      "id": 5,
+      "name": "Alexis Perez"
+      "category": "SILVER"
+    }
+  ],
+  "servicios":[
+    { 
+      "id": 1,
+      "name": "Grifería",
+  	  "price": 50000,
+      "locations": [{
+	                  "id": "asdfiekloe8",
+	                  "name": "DIST1",
+	                  "lat": 6.65793,
+	                  "lng": -75.32578
+                    },
+                    {
+	                  "id": "sdkjeiu8is",
+	                  "name": "DIST2",
+	                  "lat": 6.999878,
+	                  "lng": -75.983638
+                    },
+                    {
+	                  "id": "jsye774iswi8",
+	                  "name": "DIST3",
+	                  "lat": 6.909700,
+	                  "lng": -75.934798
+                    }]
+  },
+  { 
+      "id": 2,
+      "name": "Plomería, Jardinería, Electricidad",
+  	  "price": 45000,
+      "locations": [{
+	                  "id": "asdfiekloe8",
+	                  "name": "DIST1",
+	                  "lat": 6.65793,
+	                  "lng": -75.32578
+                    },
+                    {
+	                  "id": "sdkjeiu8is",
+	                  "name": "DIST2",
+	                  "lat": 6.999878,
+	                  "lng": -75.983638
+                    },
+                    {
+	                  "id": "jsye774iswi8",
+	                  "name": "DIST3",
+	                  "lat": 6.909700,
+	                  "lng": -75.934798
+                    }]
+  },
+  { 
+      "id": 3,
+      "name": "Jardinería",
+  	  "price": 32000,
+      "locations": [{
+	                  "id": "asdfiekloe8",
+	                  "name": "DIST1",
+	                  "lat": 6.65793,
+	                  "lng": -75.32578
+                    },
+                    {
+	                  "id": "sdkjeiu8is",
+	                  "name": "DIST2",
+	                  "lat": 6.999878,
+	                  "lng": -75.983638
+                    },
+                    {
+	                  "id": "945789dfjhf",
+	                  "name": "DIST4",
+	                  "lat": 6.894575,
+	                  "lng": -75.03827
+                    }]
+  }
+]  
+}
